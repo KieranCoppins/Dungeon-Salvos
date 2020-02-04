@@ -1,5 +1,5 @@
 # Dungeon-Salvos
-My first ever game written in Python
+My first ever game, written in Python 3
 
 Hi, Thank you for downloading my game!
 
