@@ -31,7 +31,7 @@ How to play the game:
 	Main screen is the world which contains all the ASCII characters of the world
 
 Please do enjoy my game, if you have any feedback for me do contact me:
-business@kierancoppins.com
+me@kierancoppins.com
 
 If you happen to spread my game do be sure to credit me and include this README file.
 
